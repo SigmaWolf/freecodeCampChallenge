@@ -1,0 +1,135 @@
+.about {
+  padding-top: 50px;
+}
+.submit-button {
+  padding-top: 50px;
+}
+.special-font {
+  padding-top: 50px;
+  font-size: 30px;
+}
+.input-text {
+  background-color: transparent;
+  border: 0px;
+  border-bottom: 3px solid grey;
+  height: auto;
+  width: 90%;
+  color: #ccc;
+  font-size: 5em;
+}
+.special-input {
+  padding-bottom: 100px;
+}
+
+.contact-container {
+  width: 80%;
+  background-color: white;
+}
+.portfolio-span {
+  color: #708090;
+  font-size: 2em;
+}
+.img-padding {
+  padding-bottom: 50px;
+}
+.img-size {
+  width: 400px;
+  height: 270px;
+}
+.firsthr {
+  float: right;
+}
+.secondhr {
+  float: left;
+}
+.port-folio-hr {
+  margin-top: 25px;
+  background-color: #708090;
+  width: 50%;
+  height: 5px;
+}
+.center-everything {
+  margin-left: auto;
+  margin-right: auto;
+}
+.line-one {
+  background-color: white;
+  width: 80%;
+  height: 2px;
+  float: right;
+}
+.line-three {
+  font-size: 25px;
+}
+.line {
+  font-size: 50px;
+  margin-top: 0.9em;
+}
+body {
+  background-color: grey;
+}
+.div-qlip {
+  color: white;
+  font-size: 1.2em;
+  text-align: center;
+}
+.no-bs-image {
+  float: right;
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+}
+middle-span {
+  font-size: 1.5em;
+  background-color: #708090;
+  padding: 0 5px;
+}
+.sample {
+  text-align: center;
+}
+.portfolio-container {
+  text-align: center;
+  width: 80%;
+  background-color: white;
+  border-bottom: 2px solid black;
+}
+.qlip-container {
+  width: 80%;
+  background-color: #708090;
+  padding: 100px;
+}
+
+#qlip-nav-button {
+  font-style: monospace;
+  font-size: 40px;
+  transform: scale(0.5, 1);
+  margin: auto;
+}
+
+#qlip-button {
+  float: left;
+}
+
+ul {
+  width: 100%;
+  height: auto;
+  background-color: purple;
+  list-style-type: none;
+  position: fixed;
+}
+ul li {
+  float: right;
+}
+
+.btn {
+  background-color: purple;
+  color: grey;
+  margin-top: 20px;
+}
+.btn:hover {
+  opacity: 0.8;
+}
+
+
+
+
